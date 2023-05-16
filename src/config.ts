@@ -24,7 +24,7 @@ export const whitelistedWallets = [
   "FXoth7ba7LALmJGFaidCcMnhsxEagBDBDKCmkpr2QuDr",
   "232Z5QNvQ4wRyraGWFpC5i3HEbqozEWgBCV95eWASaG1",
   "D8ivzpXkG66VknRdVjEF1HjqS3T1tzcqraVR6FYaeLsV",
-  "sTAKERL4U8fbn2nUte6rPVdcrz2z3fEh1adQEDrGULr",
+  "EE6ShCKhqgf2XLn4L4sCUGWHoZ1i3w9xSTagKsXMkSHY",
 ];
 
 export const collectionImageURL =
